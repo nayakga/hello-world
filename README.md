@@ -1,7 +1,7 @@
 # hello-world
-learning git
+learning gitHub
 
-Hi Champaks,
 
-   This is G. Learning a lot with your help. Thanks.
-   G
+HI Lapoos
+   This is Ganesh. Learning a lot with your help. Thanks.
+   Ganesh
